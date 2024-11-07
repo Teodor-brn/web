@@ -217,6 +217,10 @@ h1 {
     font-size: 28px;
     font-weight: bold;
 }
+.enlacescentro{
+    margin: 0 auto;
+    text-align: center;
+}
 #listas .descripcion li {
     list-style-type: square;
 }
