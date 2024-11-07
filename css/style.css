@@ -240,7 +240,7 @@ h1 {
     list-style-type: decimal;
 }
 #listas .icono li li {
-    list-style-image: url("../img/disco.png");
+    list-style-image: url("../img/iconoibm.webp");
 }
 #listas .icono li li li{
     list-style-image: none;
